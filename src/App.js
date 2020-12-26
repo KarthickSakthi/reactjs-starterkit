@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+         <h1>A Starterkit for Developing website in Reactjs</h1>
+         <p>Use [npx create-react-app app_name] -->  Start your ReactJS project without using Starterkit</p>
+         <h3>Happy Coding!</h3>
       </header>
     </div>
   );
